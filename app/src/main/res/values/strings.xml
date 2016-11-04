@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CropImageView</string>
+    <string name="save">保存</string>
+</resources>
